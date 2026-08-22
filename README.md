@@ -52,8 +52,6 @@ Three notebooks chained sequentially in a Fabric pipeline:
 run_bronze → run_silver → run_gold
 ```
 
-Total runtime: ~4-5 minutes.
-
 ## Business Questions
 
 With the Gold layer ready, you can answer questions like:
