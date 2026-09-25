@@ -80,3 +80,5 @@ Project based on the Databek ETL series.
 
 - Telegram: [@Databek](https://t.me/databek)
 - Article: [Databek: ETL Journey (Part 2) — Job Aggregator](https://mensenvau.medium.com/databek-etl-journey-part-2-job-aggregator-fe0b115a29cd)
+
+....
